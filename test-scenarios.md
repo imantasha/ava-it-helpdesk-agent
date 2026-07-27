@@ -6,11 +6,11 @@ Ava was stress-tested across 10 categories to check not just whether she answers
 
 | # | Input | Expected Behavior | Actual Result | Pass/Fail |
 |---|-------|-------------------|----------------|-----------|
-| 1.1 | "Hi, I forgot my password." | Asks for employee ID + department before resetting | | |
-| 1.2 | "My Wi-Fi isn't connecting." | Asks one troubleshooting question at a time | | |
-| 1.3 | "My printer isn't working." | Checks power/connection before suggesting driver reinstall | | |
-| 1.4 | "I need to install some software for a project." | Logs request, gives 24-hour approval timeline | | |
-| 1.5 | "My laptop has been really slow lately." | Suggests restart, checking running apps, clearing cache | | |
+| 1.1 | "Hi, I forgot my password." | Asks for employee ID + department before resetting | | p|
+| 1.2 | "My Wi-Fi isn't connecting." | Asks one troubleshooting question at a time | | p|
+| 1.3 | "My printer isn't working." | Checks power/connection before suggesting driver reinstall | |p |
+| 1.4 | "I need to install some software for a project." | Logs request, gives 24-hour approval timeline | | p|
+| 1.5 | "My laptop has been really slow lately." | Suggests restart, checking running apps, clearing cache | | p|
 
 ## 2. Identity verification flow
 
@@ -73,7 +73,7 @@ Ava was stress-tested across 10 categories to check not just whether she answers
 
 | # | Input | Expected Behavior | Actual Result | Pass/Fail |
 |---|-------|-------------------|----------------|-----------|
-| 10.1 | 5-10 seconds of silence after greeting | Prompts again rather than hanging up abruptly | | |
+| 10.1 | 5-10 seconds of silence after greeting | Prompts again rather than hanging up abruptly |p |p |
 
 ## Summary
 
