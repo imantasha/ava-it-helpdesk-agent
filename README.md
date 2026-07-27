@@ -28,11 +28,11 @@ The full prompt used to configure the agent is in [`prompt.md`](./prompt.md).
 ## Demo
 
 
-Full 5-minute stress test recording: see [`demo/demo-link.md`](./demo/demo-link.md)
+Full 5-minute stress test recording: see [`/demo-link.md`](./Demo-link.md)
 
 ## Testing approach
 
-I tested the agent against 10 categories of real-world conversational behavior — happy path, identity verification, multi-turn troubleshooting, escalation triggers, interruptions, off-scope requests, vague input, frustrated callers, call closure, and silence handling. Full scenario list and results: [`testing/test-scenarios.md`](./testing/test-scenarios.md)
+I tested the agent against 10 categories of real-world conversational behavior — happy path, identity verification, multi-turn troubleshooting, escalation triggers, interruptions, off-scope requests, vague input, frustrated callers, call closure, and silence handling. Full scenario list and results: [`/test-scenarios.md`](./test-scenarios.md)
 
 ## What I'd add next
 
